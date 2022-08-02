@@ -1,0 +1,9 @@
+a) 
+123. O número vai ser impresso da forma como foi digitado.
+123. O número vai ser impresso da forma como foi digitado. Se, ao inves de 2,
+fosse usado um numero maio que a quantidade de algarismos na saída,
+ficaria um espaço vazio denominado pela diferença desse numero com a quantidade de algarismos.
+       123. 10 é a quantidade de espaço que a saída deve ocupar, como é positivo, o espaço fica à esquerda do número.
+123       . 10 é a quantidade de espaço que a saída deve ocupar, como é negativo, o espaço fica à direita do número.
+
+b)
